@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- if @${1:objects}.empty?
+%p There are no items to display.
+- else
+- @$1.each do |${2:object}|
+$0
+- end
+- end</string>
+	<key>name</key>
+	<string>List view logic</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>lvl</string>
+	<key>uuid</key>
+	<string>E224AB32-E559-414D-B09A-06546C1B7B83</string>
+</dict>
+</plist>

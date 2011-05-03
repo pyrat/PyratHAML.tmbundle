@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- form_for(:${1:object}, @${1}, :url =&gt; ${2:objects_url}) do |f|
+	$0
+</string>
+	<key>name</key>
+	<string>Form for</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>form_for</string>
+	<key>uuid</key>
+	<string>029F5F73-A876-481C-938A-0F9E569ED341</string>
+</dict>
+</plist>

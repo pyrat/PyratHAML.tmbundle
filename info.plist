@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Pyrat HAML</string>
+	<key>ordering</key>
+	<array>
+		<string>0411391E-4B89-481B-BEB3-217981BEDFF9</string>
+		<string>B3DB1E18-457A-46E6-AB65-192DF40C7657</string>
+		<string>C6873A98-717C-4F52-AA69-50EB602293DE</string>
+		<string>BA255FF1-5827-459B-AD7E-8CD9CDF4B534</string>
+		<string>2224921F-5FE1-4CA5-98A8-45AFF94D683E</string>
+		<string>8A8F306B-BA17-4199-A22E-80A2147189AD</string>
+		<string>85B23099-DCFA-43B7-98BE-ACCA9B49311B</string>
+		<string>E224AB32-E559-414D-B09A-06546C1B7B83</string>
+		<string>D75D3E45-2867-4247-BE09-9B0371EF3700</string>
+		<string>EDE434B7-7A79-413F-B53C-2496A7DDC6CD</string>
+		<string>B4894D70-837A-4DE5-BFEF-5A89757CDC26</string>
+		<string>029F5F73-A876-481C-938A-0F9E569ED341</string>
+		<string>10817BF5-55AD-4F9B-9D28-405AFC62EE51</string>
+		<string>6A5DAEE2-FEEB-498C-8EEE-9B264E6C01E8</string>
+		<string>342E4CE3-9C55-4B89-B526-F9675C5F01BC</string>
+		<string>F7BF25C0-1FF0-4272-9DBA-CAA160D71CC2</string>
+		<string>9FF9C1E9-051F-4F32-8A3D-8D4730543263</string>
+		<string>113B557B-FB0B-4D39-8B37-FEC41EED0635</string>
+		<string>B8A7E883-4F9B-4CB1-8162-4B9AB7A2F0C8</string>
+		<string>8B9C206E-3975-4385-A1EF-140231B4C4DD</string>
+	</array>
+	<key>uuid</key>
+	<string>C5FC3685-76CD-4E16-90C9-3388407981B9</string>
+</dict>
+</plist>

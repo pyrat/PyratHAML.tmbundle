@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>= submit_tag '${1:Create}'$0</string>
+	<key>name</key>
+	<string>Submit tag</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>subtag</string>
+	<key>uuid</key>
+	<string>EDE434B7-7A79-413F-B53C-2496A7DDC6CD</string>
+</dict>
+</plist>

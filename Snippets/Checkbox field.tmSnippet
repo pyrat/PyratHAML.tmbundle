@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>%p
+  %label{:for =&gt; '${1:bla}'} ${2:Label text}
+  = f.check_box :${3:form_field}</string>
+	<key>name</key>
+	<string>Checkbox field</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>chk</string>
+	<key>uuid</key>
+	<string>B4894D70-837A-4DE5-BFEF-5A89757CDC26</string>
+</dict>
+</plist>

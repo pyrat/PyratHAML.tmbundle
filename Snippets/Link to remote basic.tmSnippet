@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>= link_to "$1", :url =&gt; $2</string>
+	<key>name</key>
+	<string>Link to remote basic</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>libr</string>
+	<key>uuid</key>
+	<string>342E4CE3-9C55-4B89-B526-F9675C5F01BC</string>
+</dict>
+</plist>
